@@ -21,5 +21,6 @@ public class Page_login extends BaseTest{
 		driver.findElement(By.id(pr_loc.getProperty("pass"))).sendKeys(pr.getProperty("password"));
 		driver.findElement(By.xpath(pr_loc.getProperty("button"))).click();		
 	}
+//dhksjhdkskdh
 
 }
