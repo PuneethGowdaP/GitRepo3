@@ -22,7 +22,7 @@ public class Page_login extends BaseTest{
 		driver.findElement(By.xpath(pr_loc.getProperty("button"))).click();		
 	}
 //dhksjhdkskdh
-//kjkljliyiuy
+//kjkljliyiuyhghfjfhjhvj
 	
 
 }
