@@ -18,5 +18,5 @@ public class Page_bmSearchBox extends BaseTest {
 		driver.findElement(By.xpath(pr_loc.getProperty("search_box"))).clear();
 		
 	}
-
+//nkhkjugjtgjy
 }
